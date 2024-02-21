@@ -1,0 +1,24 @@
+body{background-color: rgb(202, 87, 87);}
+    
+.nav-bar, .nav-link {
+    display: inline;
+    padding: 10px;}
+        
+        
+
+
+.container {display: flex;
+flex-direction: column;
+flex;}
+
+#fsv{ width: 1000px;
+    height: 400px;
+    margin-left: 22%;}
+    
+h2{background-color: aliceblue; }
+h3{background-color: aliceblue; }
+    iframe{
+        height: 200px;
+        width: 300px;
+        border-color:black ;
+    }
